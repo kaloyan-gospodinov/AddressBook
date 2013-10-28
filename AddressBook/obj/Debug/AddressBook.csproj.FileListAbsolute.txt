@@ -1,0 +1,5 @@
+D:\Telerik\12. TEAMWORKS\HW_kaloyan.gospodinov_Ekipna-rabota-po-OOP_2013-03-19_22-13\AddressBook\bin\Debug\AddressBook.dll
+D:\Telerik\12. TEAMWORKS\HW_kaloyan.gospodinov_Ekipna-rabota-po-OOP_2013-03-19_22-13\AddressBook\bin\Debug\AddressBook.pdb
+D:\Telerik\12. TEAMWORKS\HW_kaloyan.gospodinov_Ekipna-rabota-po-OOP_2013-03-19_22-13\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
+D:\Telerik\12. TEAMWORKS\HW_kaloyan.gospodinov_Ekipna-rabota-po-OOP_2013-03-19_22-13\AddressBook\obj\Debug\AddressBook.dll
+D:\Telerik\12. TEAMWORKS\HW_kaloyan.gospodinov_Ekipna-rabota-po-OOP_2013-03-19_22-13\AddressBook\obj\Debug\AddressBook.pdb

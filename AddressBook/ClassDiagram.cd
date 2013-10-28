@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AddressBook.Chapter" Collapsed="true">
+    <Position X="13" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAQAAAAAgAAABIAAAAAAAAAAAAAAAAAAEgAAAAI=</HashCode>
+      <FileName>Chapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddressBook.AddressBook" Collapsed="true">
+    <Position X="19.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADAAQAAAAEAAAAAAAAAQIAAAAAAAAAAAAAAAQAEwAA=</HashCode>
+      <FileName>AddressBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddressBook.Advertisement" Collapsed="true">
+    <Position X="21.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAFAABAAQAAQAAAAAA=</HashCode>
+      <FileName>Advertisement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddressBook.AreaPhoneCode" Collapsed="true">
+    <Position X="10.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAEABAAAAAEAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AreaPhoneCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddressBook.Business&lt;T&gt;" Collapsed="true">
+    <Position X="10.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Business.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddressBook.Codes&lt;T&gt;" Collapsed="true">
+    <Position X="13" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Codes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddressBook.Company" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIAQgAAAAIAAAAECAAAQAAAAEAAAAAAAAAAAIACAEA=</HashCode>
+      <FileName>Company.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AddressBook.Content" Collapsed="true">
+    <Position X="17.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAECAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Content.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddressBook.Family" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEAAAAAAAAAAAEAAAEQAAAAEAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Family.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AddressBook.InternationalPhoneCode" Collapsed="true">
+    <Position X="13" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICAAACAgAAAIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InternationalPhoneCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddressBook.KeyboardInterface" Collapsed="true">
+    <Position X="21.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAEAAkAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KeyboardInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddressBook.NotANameException" Collapsed="true">
+    <Position X="23" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NotANameException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddressBook.PageableChapter&lt;T&gt;" Collapsed="true">
+    <Position X="13" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAAAABAAABAAAAAAAgAAACAAAgAACAAA=</HashCode>
+      <FileName>PageableChapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AddressBook.PhoneCode" Collapsed="true">
+    <Position X="13" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PhoneCode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AddressBook.StringChecker" Collapsed="true">
+    <Position X="17.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StringChecker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddressBook.Subscribers&lt;T&gt;" Collapsed="true">
+    <Position X="15.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subscribers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddressBook.UserInterface" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserInterface.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Struct Name="AddressBook.Service" Collapsed="true">
+    <Position X="17.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAgAAQAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="AddressBook.IPageable&lt;T&gt;" Collapsed="true">
+    <Position X="17.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAgAACAAA=</HashCode>
+      <FileName>IPageable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AddressBook.IPrinter" Collapsed="true">
+    <Position X="19.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AddressBook.IReadable" Collapsed="true">
+    <Position X="21.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IReadable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AddressBook.ISearcheable" Collapsed="true">
+    <Position X="23" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISearcheable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="AddressBook.AdsType" Collapsed="true">
+    <Position X="17.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>AdsType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
